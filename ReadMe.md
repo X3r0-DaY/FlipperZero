@@ -15,6 +15,7 @@ NOTE: Use this payload only against systems that you are authorized to access
 
 
 Variables:
+
 <PL_PATH>: Local hard drive path to extract resources
  
 <LISTEN_IP>: IP address of Netcat listener
