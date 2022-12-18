@@ -10,7 +10,7 @@
 ▐░▌     ▐░▌▐░░░░░░░░░░░▌▐░▌       ▐░▌ ▐░░░░░░░░░▌▐░▌▐░░░░░░░░░░▌ ▐░▌       ▐░▌     ▐░▌     
  ▀       ▀  ▀▀▀▀▀▀▀▀▀▀▀  ▀         ▀   ▀▀▀▀▀▀▀▀▀  ▀  ▀▀▀▀▀▀▀▀▀▀   ▀         ▀       ▀      
                                                                                            
-===============================| PAYLOAD DESCRIPTIONS |====================================
+======| PAYLOAD DESCRIPTIONS |======
 
 WIN10-NC-Rev-Shell
 Creates a reverse shell back to the attacker
