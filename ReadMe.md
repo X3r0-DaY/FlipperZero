@@ -22,7 +22,9 @@ Variables:
 <LISTEN_PORT>: Port that Netcat is listening on
 
 Files downloaded by the script:
+
 File 1 - Netcat and NMAP
+
 File 2 - Simple unzip utility
 
 File 2 can be replaced with an unzip utility of your choice. 
